@@ -1,0 +1,6 @@
+@Uncencored_model_app_HostAddress = http://localhost:5261
+
+GET {{Uncencored_model_app_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
